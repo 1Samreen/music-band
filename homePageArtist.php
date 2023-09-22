@@ -8,7 +8,7 @@ session_start();
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>Ideal Bits Music</title>
+		<title>Ideal Bits</title>
  		<link rel="stylesheet" href="css/style.css" type="text/css" />
  		<script type="text/javascript" src="Script/jquery.js"></script>
 		<link rel="stylesheet" href="css/jquery-ui.css">
