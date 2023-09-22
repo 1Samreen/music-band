@@ -9,7 +9,7 @@ $uid =$_SESSION['uid'];
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>Musical Connection</title>
+		<title>Ideal Bits</title>
  		<link rel="stylesheet" href="css/style.css" type="text/css" />
  		<script type="text/javascript" src="Script/jquery.js"></script>
 		<link rel="stylesheet" href="css/jquery-ui.css">
@@ -247,7 +247,7 @@ $uid =$_SESSION['uid'];
 		<div class="footer">
 			<div class="left-content wifooterdthalign">
 				<h1>Subscribe to Us</h1>
-				<a href="mailto:amitk26467@gmail.com">musicalConnections@gmail.com</a>
+				<a href="mailto:idealbits@gmail.com">idealbits@gmail.com</a>
 			</div>
 			<div class="left-content wifooterdthalign" style="margin-left:0px">
 				<h1>Contact Us</h1>
@@ -255,13 +255,13 @@ $uid =$_SESSION['uid'];
 			</div>
 			<div class="left-content social-network" style="margin-left:0px">
 				<h1>Follow Us</h1>
-				<a href="https://www.facebook.com/Connectionsoriginalmusicall" class="socialnet" style="clear:left"></a>
+				<a href="https://www.facebook.com/idealbitsmusical" class="socialnet" style="clear:left"></a>
 				<a href="https://twitter.com/music" class="socialnet twitter"></a>
 				<a href="http://www.youtube.com/user/FlyingBalalaikaBros" class="socialnet youtube"></a>
 			</div>
 			<div class="left-content wifooterdthalign" style="margin-left:0px">
-				<h2 style="margin-top:0px;font-size:14px">Copyrights reserved 2014.</h2>
-				<h2 style="margin-top:5px;font-size:10px">Developed and managed by Amit and Chaithra</h2>
+				<h2 style="margin-top:0px;font-size:14px">Copyrights reserved 2023.</h2>
+				<h2 style="margin-top:5px;font-size:10px">Developed and managed by Samreen and Sahana and Swati</h2>
 
 
 			</div>
