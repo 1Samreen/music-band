@@ -68,7 +68,7 @@
 				<h1 style="margin-top:32px;text-decoration:underline">Latest Upcoming Events </h1>
 					<h2>Bangalore City Music festival</h2>
 					<h2>September 22 ,2023 </h2>
-					<h2>Venue : HKBK College</h2>
+					<h2>Venue : HKBK College </h2>
 			</div>
 
 		</div>
